@@ -1,0 +1,52 @@
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+
+.footer{
+  background: #1d1d1d;
+	padding-top: 80px;
+	padding-bottom: 0;
+  margin:0px auto;  
+  list-style: none;
+	color: #8e8e8e;
+	font-size: 16px;
+	line-height: 26px;
+}
+
+.jumbotron {
+  padding:20px 20px 20px 20px;
+  margin:0px auto;
+  background: #FF5581 ;
+  color:floralwhite;
+}
+/* rgba(245, 112, 148, 0.849)*/
+.a {
+  color: #FF5581;
+}
+/* change the background color */
+.navbar {
+  background-color: #1d1d1d;
+}
+/* change the brand and text color */
+.navbar .navbar-brand,
+.navbar .navbar-text {
+  color: #8e8e8e;
+}
+/* change the link color */
+.navbar .navbar-nav .nav-link {
+  color: #8e8e8e;
+}
+/* change the color of active or hovered links */
+.navbar .nav-item.active .nav-link,
+.navbar .nav-item:focus .nav-link,
+.navbar .nav-item:hover .nav-link {
+  color: #FF5581;
+}
