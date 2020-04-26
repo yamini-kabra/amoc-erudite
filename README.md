@@ -9,8 +9,3 @@ In stores category, we will have a chat app where the person can interact with t
 In medical aid, we will provide professional help from the doctors for physical and mental health as per required.
 Since getting to doctors in this pandemic has been quite difficult unless its a case of emergency
 
-Folders--
-
--yamini
---login-signup
-REFERENCES-https://medium.com/createdd-notes/starting-with-authentication-a-tutorial-with-node-js-and-mongodb-25d524c
